@@ -8,5 +8,6 @@ namespace WebAliona.Data
         : base(options) { }
 
         public DbSet<News> News { get; set; }
+        public DbSet<Banan> Banans { get; set; }
     }
 }

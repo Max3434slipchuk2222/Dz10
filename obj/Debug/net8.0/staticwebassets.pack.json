@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Юра\\source\\repos\\WebAliona\\WebAliona\\wwwroot\\img\\no-photo.jpg",
+      "PackagePath": "staticwebassets\\img\\no-photo.jpg"
+    },
+    {
       "Id": "C:\\Users\\Юра\\source\\repos\\WebAliona\\WebAliona\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -243,6 +247,26 @@
     {
       "Id": "C:\\Users\\Юра\\source\\repos\\WebAliona\\WebAliona\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Юра\\source\\repos\\WebAliona\\WebAliona\\wwwroot\\uploads\\18059c4f-5864-401e-b2cc-0c793ccb656a.png",
+      "PackagePath": "staticwebassets\\uploads\\18059c4f-5864-401e-b2cc-0c793ccb656a.png"
+    },
+    {
+      "Id": "C:\\Users\\Юра\\source\\repos\\WebAliona\\WebAliona\\wwwroot\\uploads\\4c6d9d1e-faf5-4eaf-b522-333357548b58.png",
+      "PackagePath": "staticwebassets\\uploads\\4c6d9d1e-faf5-4eaf-b522-333357548b58.png"
+    },
+    {
+      "Id": "C:\\Users\\Юра\\source\\repos\\WebAliona\\WebAliona\\wwwroot\\uploads\\5432bf81-b0b8-417a-9deb-cc5873ea3b4d.png",
+      "PackagePath": "staticwebassets\\uploads\\5432bf81-b0b8-417a-9deb-cc5873ea3b4d.png"
+    },
+    {
+      "Id": "C:\\Users\\Юра\\source\\repos\\WebAliona\\WebAliona\\wwwroot\\uploads\\6056b2bd-a8b2-44d0-8c30-f19ac0168387.png",
+      "PackagePath": "staticwebassets\\uploads\\6056b2bd-a8b2-44d0-8c30-f19ac0168387.png"
+    },
+    {
+      "Id": "C:\\Users\\Юра\\source\\repos\\WebAliona\\WebAliona\\wwwroot\\uploads\\dd1717a8-0c7c-413b-aa84-5b64d8f1ca5b.png",
+      "PackagePath": "staticwebassets\\uploads\\dd1717a8-0c7c-413b-aa84-5b64d8f1ca5b.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAliona.Microsoft.AspNetCore.StaticWebAssets.props",

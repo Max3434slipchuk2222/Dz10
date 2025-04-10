@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAliona")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff3571c1a3c28625730bf07cd76c56105d1882d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb0924000bd2b99364556f3eae18cab20acb993d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAliona")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAliona")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
